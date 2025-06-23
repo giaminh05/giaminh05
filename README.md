@@ -18,14 +18,14 @@
 
 ### 🌐 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/minhha05/" target="_blank">
+<p>
+  <a href="https://www.linkedin.com/in/minhha05/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/minh.hagia.1428" target="_blank">
+  <a href="https://www.facebook.com/minh.hagia.1428" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hagiaminh0529@gmail.com" >
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hagiaminh0529@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -65,21 +65,21 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
----
 
+---
 
 ### 🏆 GitHub Achievements
 
 <p align="left">
-  <a href="https://github.com/users/giaminh05/achievements/pull-shark" target="_blank">
+  <a href="https://github.com/users/giaminh05/achievements/pull-shark"target="_blank" rel="noreferrer">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" title="Merged pull requests" width="80" />
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" title="Merged pull requests" width="80" />
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" title="Merged pull requests" width="80" />
   </a>
-  <a href="https://github.com/users/giaminh05/achievements/quickdraw" target="_blank">
+  <a href="https://github.com/users/giaminh05/achievements/quickdraw" target="_blank" rel="noreferrer">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" title="Opened an issue within 2 minutes of repo creation" width="80" />
   </a>
-  <a href="https://github.com/users/giaminh05/achievements/yolo" target="_blank">
+  <a href="https://github.com/users/giaminh05/achievements/yolo" target="_blank" rel="noreferrer">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" title="Merged a pull request without code review" width="80" />
   </a>
 </p>
